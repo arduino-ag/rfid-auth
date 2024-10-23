@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map for library RFID_Auth
+#######################################
+
+#######################################
+# KEYWORD1 Classes, datatypes, and C++ keywords
+#######################################
+Auth    KEYWORD1
+ 
+#######################################
+# KEYWORD2 Methods and functions
+#######################################
+wait_until_confirmed    KEYWORD2
+
+#######################################
+# KEYWORD3 setup and loop functions, as well as the Serial keywords
+#######################################
+
+#######################################
+# LITERAL1 Constants
+#######################################
